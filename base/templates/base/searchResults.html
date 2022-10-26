@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Search Page</h1>
+
+
+<p>This is the search page</p>
+<p><a href="{% url 'market' %}">Go back to market page</a></p>
+
+{% for item in items %}
+<h5>{{item.item_name}}</h5>
+{% endfor %}
+
+<h5>{{items_count}} results found</h5>
+
+{% endblock %}
