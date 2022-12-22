@@ -26,7 +26,12 @@ Further improvisation/feature recommendation is fully appreciated
 To run this project:
 - Clone/ Download the zip file 
 - Open terminal 
-- 
+- Create a new python virtual enviroment (version 3.10.x) (optional)
+- 'pip install requirments.txt'
+- After installation, cd into 'src' directory
+- 'python manage.py runserver (portnumber[optional)
+
+
 
 
 The theme template of this project was inspired by Jim shaped Coding's Flask tutorial, check out his <a href="https://www.youtube.com/channel/UCU8d7rcShA7MGuDyYH1aWGg">youtube channel</a>
