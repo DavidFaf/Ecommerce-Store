@@ -23,6 +23,11 @@ The E-commerce store as native functions such as
 Further improvisation/feature recommendation is fully appreciated
 
 
+To run this project:
+- Clone/ Download the zip file 
+- Open terminal 
+- 
+
 
 The theme template of this project was inspired by Jim shaped Coding's Flask tutorial, check out his <a href="https://www.youtube.com/channel/UCU8d7rcShA7MGuDyYH1aWGg">youtube channel</a>
 
