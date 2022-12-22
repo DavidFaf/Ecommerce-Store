@@ -17,6 +17,12 @@ The E-commerce store as native functions such as
 - Cart/Checkout page
 
 
+<img width="1440" alt="Screenshot 2022-12-22 at 18 08 08" src="https://user-images.githubusercontent.com/86724208/209188886-e59c4df7-53db-4b75-bf7f-885a8586cc1c.png">
+
+
+
+The theme template of this project was inspired by Jim shaped Coding's Flask tutorial, check out his <a href="https://www.youtube.com/channel/UCU8d7rcShA7MGuDyYH1aWGg">youtube channel</a>
+
 
 
 
